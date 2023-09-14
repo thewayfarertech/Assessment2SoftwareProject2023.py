@@ -17,29 +17,29 @@ Run Help Desk.py (it will automatically load ticket.py as well)
             0 Exit
 
 Enter menu selection 1
-Enter Your Name Nicholas Kan
-Please Enter Your Staff ID 13053111
-Please Enter your Email Address nicholaskan@whitecliffe.ac.nz
+Enter Your Name Baba Yaga
+Please Enter Your Staff ID 23458978
+Please Enter your Email Address babayaga@whitecliffe.ac.nz
 Please Enter the Description of Your Problem Password Change
-User password was set to: 13Nic
+User password was set to: 23Bab
 Ticket Number: 2001
-Ticket Creator: Nicholas Kan
-Staff ID: 13053111
-Email Address: nicholaskan@whitecliffe.ac.nz
+Ticket Creator: Baba Yaga
+Staff ID: 23458978
+Email Address: babayaga@whitecliffe.ac.nz
 Issue: Password Change
-Response: User password was set to: 13Nic
+Response: User password was set to: 23Bab
 Status: Closed
 --------------------------------------
 Do you have another problem to submit? (Y/N) Y
-Enter Your Name Jane
-Please Enter Your Staff ID 42055698
-Please Enter your Email Address janestaff@whitecliffe.ac.nz
-Please Enter the Description of Your Problem Monitor not working
+Enter Your Name Takahashi Sento
+Please Enter Your Staff ID 69532578
+Please Enter your Email Address sento@whitecliffe.ac.nz
+Please Enter the Description of Your Problem Monitor Not Working
 Ticket Number: 2002
-Ticket Creator: Jane
-Staff ID: 42055698
-Email Address: janestaff@whitecliffe.ac.nz
-Issue: Monitor not working
+Ticket Creator: Takahashi Sento
+Staff ID: 69532578
+Email Address: sento@whitecliffe.ac.nz
+Issue: Monitor Not Working
 Response: Not Yet Provided
 Status: Open
 --------------------------------------
@@ -55,18 +55,18 @@ Do you have another problem to submit? (Y/N) N
 
 Enter menu selection 2
 Ticket Number: 2001
-Ticket Creator: Nicholas Kan
-Staff ID: 13053111
-Email Address: nicholaskan@whitecliffe.ac.nz
+Ticket Creator: Baba Yaga
+Staff ID: 23458978
+Email Address: babayaga@whitecliffe.ac.nz
 Issue: Password Change
-Response: User password was set to: 13Nic
+Response: User password was set to: 23Bab
 Status: Closed
 --------------------------------------
 Ticket Number: 2002
-Ticket Creator: Jane
-Staff ID: 42055698
-Email Address: janestaff@whitecliffe.ac.nz
-Issue: Monitor not working
+Ticket Creator: Takahashi Sento
+Staff ID: 69532578
+Email Address: sento@whitecliffe.ac.nz
+Issue: Monitor Not Working
 Response: Not Yet Provided
 Status: Open
 --------------------------------------
@@ -81,23 +81,23 @@ Status: Open
 
 Enter menu selection 3
 Ticket Number: 2001
-Ticket Creator: Nicholas Kan
-Staff ID: 13053111
-Email Address: nicholaskan@whitecliffe.ac.nz
+Ticket Creator: Baba Yaga
+Staff ID: 23458978
+Email Address: babayaga@whitecliffe.ac.nz
 Issue: Password Change
-Response: User password was set to: 13Nic
+Response: User password was set to: 23Bab
 Status: Closed
 --------------------------------------
 Ticket Number: 2002
-Ticket Creator: Jane
-Staff ID: 42055698
-Email Address: janestaff@whitecliffe.ac.nz
-Issue: Monitor not working
+Ticket Creator: Takahashi Sento
+Staff ID: 69532578
+Email Address: sento@whitecliffe.ac.nz
+Issue: Monitor Not Working
 Response: Not Yet Provided
 Status: Open
 --------------------------------------
 What is the ticket number? 2002
-What is the response? New monitor installed. Please try again.
+What is the response? New Monitor Installed. Please Try Again.
 
             Menu
             1 Submit helpdesk ticket
@@ -123,19 +123,19 @@ Number of Reopened Tickets 0
 
 Enter menu selection 4
 Ticket Number: 2001
-Ticket Creator: Nicholas Kan
-Staff ID: 13053111
-Email Address: nicholaskan@whitecliffe.ac.nz
+Ticket Creator: Baba Yaga
+Staff ID: 23458978
+Email Address: babayaga@whitecliffe.ac.nz
 Issue: Password Change
-Response: User password was set to: 13Nic
+Response: User password was set to: 23Bab
 Status: Closed
 --------------------------------------
 Ticket Number: 2002
-Ticket Creator: Jane
-Staff ID: 42055698
-Email Address: janestaff@whitecliffe.ac.nz
-Issue: Monitor not working
-Response: New monitor installed. Please try again.
+Ticket Creator: Takahashi Sento
+Staff ID: 69532578
+Email Address: sento@whitecliffe.ac.nz
+Issue: Monitor Not Working
+Response: New Monitor Installed. Please Try Again.
 Status: Closed
 --------------------------------------
 What is the ticket number? 2001
@@ -150,19 +150,19 @@ What is the ticket number? 2001
 
 Enter menu selection 2
 Ticket Number: 2001
-Ticket Creator: Nicholas Kan
-Staff ID: 13053111
-Email Address: nicholaskan@whitecliffe.ac.nz
+Ticket Creator: Baba Yaga
+Staff ID: 23458978
+Email Address: babayaga@whitecliffe.ac.nz
 Issue: Password Change
-Response: User password was set to: 13Nic
+Response: User password was set to: 23Bab
 Status: Reopened
 --------------------------------------
 Ticket Number: 2002
-Ticket Creator: Jane
-Staff ID: 42055698
-Email Address: janestaff@whitecliffe.ac.nz
-Issue: Monitor not working
-Response: New monitor installed. Please try again.
+Ticket Creator: Takahashi Sento
+Staff ID: 69532578
+Email Address: sento@whitecliffe.ac.nz
+Issue: Monitor Not Working
+Response: New Monitor Installed. Please Try Again.
 Status: Closed
 --------------------------------------
 

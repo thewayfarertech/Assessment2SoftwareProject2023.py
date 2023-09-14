@@ -19,7 +19,7 @@ class Ticket:
         print("Status: "+self.status)
         print("--------------------------------------")
 
-    # Change Password
+    # Change Password - Method
     def changepassword(self):
         password = self.staffID[0:2] + self.creator[0:3]
         self.response = "User password was set to: " + password
@@ -27,7 +27,7 @@ class Ticket:
         self.status = "Closed"
 
 
-    # Ticket submission
+    # Ticket submission - Method
     def submit(self):
         self.creator = input("Enter Your Name ")
         self.staffID = input("Please Enter Your Staff ID ")

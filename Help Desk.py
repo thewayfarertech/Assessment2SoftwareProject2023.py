@@ -68,24 +68,26 @@ while True:  # CONTINUE TO EXECUTE THE MENU
         print("Number of Reopened Tickets " + str(totalReopened))  # display number of reopened tickets
 
     # REOPENING TO TICKET
-    if command == "4":
-        displayAll()
+    if command == "4":      # user inputs '4' to reopen a ticket
+        displayAll()        # all the tickets are displayed for user to identify which ticket to REOPEN
 
-        userInput = input("What is the ticket number? ")
-        for request in bigList:
-            if str(request.number) == userInput:
-                request.status = "Reopened"
+        userInput = input("What is the ticket number? ")    # system prompts user to enter ticket number of interest
+        for request in bigList:                             # for each ticket ('request') in bigList,
+            if str(request.number) == userInput:            # checks which ticket number matches what the user entered (userInput)
+                request.status = "Reopened"                 # if matching ticket is found, the status (request.status) is changed to "reopened"
 
     # RESPONDING TO A TICKET
-    if command == "3":
-        displayAll()
+    if command == "3":  # user inputs '4' to reopen a ticket
+        displayAll()    # all the tickets are displayed for user to identify which ticket to RESPOND
 
-        userInput = input("What is the ticket number? ")
-        for request in bigList:
-            if str(request.number) == userInput:
-                userInput = input("What is the response? ")
-                request.response = userInput
-                request.status = "Closed"
+        userInput = input("What is the ticket number? ")    # system prompts user to enter ticket number of interest
+        for request in bigList:                             # for each ticket ('request') in bigList,
+            if str(request.number) == userInput:             # checks which ticket number matches what the user entered (userInput)
+                userInput = input("What is the response? ")     # prompts user for a response to the ticket
+                request.response = userInput                    # response provided by user is stored in 'response' attribute of the ticket
+                request.status = "Closed"                       # 'ticket' status changed to Closed
+
+
 
 
 
